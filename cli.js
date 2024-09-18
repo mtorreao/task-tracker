@@ -1,4 +1,4 @@
-// console.log(process.stdin)
+#!/usr/bin/env node
 const file = require("./file");
 const path = require('path');
 

@@ -1,12 +1,20 @@
 {
-  "name": "task-tracker",
+  "name": "mtasker",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "task",
+    "productivity"
+  ],
+  "author": "Matheus Torreão(https://github.com/mtorreao)",
   "license": "ISC",
-  "description": ""
+  "description": "A CLI Task Tracker",
+  "dependencies": {
+  },
+  "bin": {
+    "mtasker": "./cli.js"
+  }
 }
