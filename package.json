@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
-    "dev:add": "node index.js add 'Teste 1'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
